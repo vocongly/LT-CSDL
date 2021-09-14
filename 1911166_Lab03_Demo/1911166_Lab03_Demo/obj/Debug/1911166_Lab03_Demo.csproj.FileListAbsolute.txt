@@ -1,0 +1,12 @@
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\bin\Debug\1911166_Lab03_Demo.exe.config
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\bin\Debug\1911166_Lab03_Demo.exe
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\bin\Debug\1911166_Lab03_Demo.pdb
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\obj\Debug\1911166_Lab03_Demo.csproj.AssemblyReference.cache
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\obj\Debug\_1911166_Lab03_Demo.SinhVienForm.resources
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\obj\Debug\_1911166_Lab03_Demo.Properties.Resources.resources
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\obj\Debug\1911166_Lab03_Demo.csproj.GenerateResource.cache
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\obj\Debug\1911166_Lab03_Demo.csproj.CoreCompileInputs.cache
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\obj\Debug\1911166_Lab03_Demo.exe
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\obj\Debug\1911166_Lab03_Demo.pdb
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\bin\Debug\Data\DanhSachSV.txt
+E:\C#\LaptrinhCSDL\1911166_Lab03_Demo\1911166_Lab03_Demo\obj\Debug\_1911166_Lab03_Demo.OptionForm.resources
